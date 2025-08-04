@@ -1,0 +1,11 @@
+Name,Age,Gender
+Alice,24,Female
+Bob,32,Male
+Charlie,29,Male
+Diana,27,Female
+Eve,22,Female
+Frank,35,Male
+Grace,30,Female
+Henry,31,Male
+Ivy,23,Female
+Jack,28,Male
