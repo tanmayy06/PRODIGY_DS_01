@@ -32,7 +32,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/tanmayy06/PRODIGY_DS_01/tree/main
+git clone https://github.com/tanmayy06/PRODIGY_DS_01
 Navigate to the project folder:
 
 bash
