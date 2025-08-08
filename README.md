@@ -38,7 +38,7 @@ Navigate to the project folder:
 bash
 Copy
 Edit
-cd <your-repo-name>
+cd <PRODIGY_DS_01>
 Place your dataset in the folder (already included as dataset.csv.txt).
 
 Run the script:
